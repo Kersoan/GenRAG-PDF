@@ -9,7 +9,7 @@ Embedding & Vector Store:
 Conversational AI: Integrates LangChain ChatGoogleGenerativeAI with a custom prompt template to generate detailed, contextually accurate responses.
 Interactive Web Interface: Built with Streamlit for a clean, intuitive, and user-friendly experience.
 
-**How It Works:**
+# **How It Works:**
 1.Upload one or multiple PDF documents.
 2.System processes documents to extract text, create embeddings, and build a searchable index.
 3.Users ask questions in the interface, and the system retrieves relevant content and generates context-aware answers.
