@@ -42,15 +42,6 @@ The system combines semantic search with large language models to generate accur
 
 ---
 
-## 🚀 How to Run Locally
-
-```bash
-git clone https://github.com/Kersoan/GenRAG-PDF.git
-cd GenRAG-PDF
-pip install -r requirements.txt
-streamlit run app/app.py
-
-
 ---
 
 ## 📖 Technical Blog
