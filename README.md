@@ -48,6 +48,7 @@ The system combines semantic search with large language models to generate accur
 A detailed technical walkthrough of this project is available on Medium, covering the architecture, RAG pipeline, and implementation details.
 
 🔗 **Medium Article:**  
+[![Medium](https://img.shields.io/badge/Technical%20Blog-Medium-black?logo=medium)](https://medium.com/@kersoan.plasis.2003/genrag-pdf-ai-powered-conversational-pdf-query-system-using-langchain-and-gemini-pro-dc994b5c47a8)
 [GenRAG-PDF: AI-Powered Conversational PDF Query System using LangChain and Gemini Pro](https://medium.com/@kersoan.plasis.2003/genrag-pdf-ai-powered-conversational-pdf-query-system-using-langchain-and-gemini-pro-dc994b5c47a8)
 
 This article explains:
