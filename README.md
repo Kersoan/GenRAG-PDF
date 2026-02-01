@@ -9,5 +9,5 @@ GenRAG-PDF is an AI-powered system that enables interactive querying of multiple
 
 3.Users ask questions in the interface, and the system retrieves relevant content and generates context-aware answers.
 
-4.Automatically switches to fallback embedding or simple text matching when API limits are reached.
+4.Automatically switches to fallback embedding or simple text matching when API limits are reached. 
 
