@@ -1,13 +1,51 @@
-# **GenRAG-PDF (Chat with multiple PDF files using R A G)**
+# GenRAG-PDF  
+**Retrieval-Augmented Generation System for Multi-PDF Question Answering**
 
-GenRAG-PDF is an AI-powered system that enables interactive querying of multiple PDF documents. Using a Retrieval-Augmented Generation (RAG) pipeline, it combines semantic search with generative AI to provide context-aware and accurate answers. The app extracts text from PDFs, splits it into meaningful chunks, creates embeddings (Google Gemini or fallback), and delivers answers via a Streamlit-based web interface.
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# **How It Works:**
-1.Upload one or multiple PDF documents.
+---
 
-2.System processes documents to extract text, create embeddings, and build a searchable index.
+## 📌 Overview
+GenRAG-PDF is an AI-powered application that enables users to query and extract insights from **multiple PDF documents** using a **Retrieval-Augmented Generation (RAG)** pipeline.  
+The system combines semantic search with large language models to generate accurate, context-aware responses.
 
-3.Users ask questions in the interface, and the system retrieves relevant content and generates context-aware answers.
+---
 
-4.Automatically switches to fallback embedding or simple text matching when API limits are reached. 
+## 🧠 Key Features
+- Multi-PDF document ingestion
+- Text chunking and semantic embeddings
+- FAISS-based vector search
+- Google Gemini-powered response generation
+- Fallback text-matching when API quota is exceeded
+- Clean Streamlit-based UI
 
+---
+
+## 🏗 Architecture
+1. PDF text extraction using **PyPDF2**
+2. Chunking with **RecursiveCharacterTextSplitter**
+3. Embedding generation using **Google Gemini**
+4. Vector storage using **FAISS**
+5. Context-aware answer generation via **RAG**
+
+---
+
+## 🛠 Tech Stack
+- **Language:** Python  
+- **Framework:** Streamlit  
+- **LLM:** Google Gemini  
+- **Vector Store:** FAISS  
+- **Libraries:** LangChain, PyPDF2, dotenv  
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/Kersoan/GenRAG-PDF.git
+cd GenRAG-PDF
+pip install -r requirements.txt
+streamlit run app/app.py
