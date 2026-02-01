@@ -49,3 +49,20 @@ git clone https://github.com/Kersoan/GenRAG-PDF.git
 cd GenRAG-PDF
 pip install -r requirements.txt
 streamlit run app/app.py
+
+
+---
+
+## 📖 Technical Blog
+A detailed technical walkthrough of this project is available on Medium, covering the architecture, RAG pipeline, and implementation details.
+
+🔗 **Medium Article:**  
+[GenRAG-PDF: AI-Powered Conversational PDF Query System using LangChain and Gemini Pro](https://medium.com/@kersoan.plasis.2003/genrag-pdf-ai-powered-conversational-pdf-query-system-using-langchain-and-gemini-pro-dc994b5c47a8)
+
+This article explains:
+- Retrieval-Augmented Generation (RAG) workflow
+- Multi-PDF ingestion and chunking strategy
+- FAISS vector indexing and similarity search
+- Google Gemini integration and fallback handling
+- Design decisions and future enhancements
+
