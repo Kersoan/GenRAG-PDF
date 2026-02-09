@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-green)
+![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-green) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
@@ -12,7 +12,7 @@
 GenRAG-PDF is an AI-powered application that enables users to query and extract insights from **multiple PDF documents** using a **Retrieval-Augmented Generation (RAG)** pipeline.  
 The system combines semantic search with large language models to generate accurate, context-aware responses.
 
----
+--- 
  
 ## 🧠 Key Features
 - Multi-PDF document ingestion
