@@ -13,7 +13,7 @@ GenRAG-PDF is an AI-powered application that enables users to query and extract 
 The system combines semantic search with large language models to generate accurate, context-aware responses.
 
 ---
-
+ 
 ## 🧠 Key Features
 - Multi-PDF document ingestion
 - Text chunking and semantic embeddings
