@@ -16,7 +16,7 @@ The system combines semantic search with large language models to generate accur
  
 ## 🧠 Key Features
 - Multi-PDF document ingestion
-- Text chunking and semantic embeddings
+- Text chunking and semantic embeddings 
 - FAISS-based vector search
 - Google Gemini-powered response generation
 - Fallback text-matching when API quota is exceeded
