@@ -6,7 +6,7 @@
 ![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-green) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
----
+--- 
 
 ## 📌 Overview
 GenRAG-PDF is an AI-powered application that enables users to query and extract insights from **multiple PDF documents** using a **Retrieval-Augmented Generation (RAG)** pipeline.  
