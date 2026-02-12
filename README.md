@@ -1,7 +1,7 @@
 # GenRAG-PDF  
 **Retrieval-Augmented Generation System for Multi-PDF Question Answering**
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue) 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)  
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red) 
 ![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-green) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
