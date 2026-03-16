@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)  
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red) 
 ![LLM](https://img.shields.io/badge/LLM-Google%20Gemini-green) 
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Completed-success) 
 
 --- 
 
